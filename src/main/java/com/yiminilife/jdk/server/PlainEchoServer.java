@@ -1,4 +1,4 @@
-package com.yiminilife.echoserver;
+package com.yiminilife.jdk.server;
 
 import java.io.BufferedReader;
 import java.io.IOException;
